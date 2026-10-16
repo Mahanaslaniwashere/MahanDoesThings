@@ -1,0 +1,29 @@
+{
+  "method": "Uniform 2m contour sampling; weighted local plane within 12m; 2m grid cell centers inside parcel; >=3 distinct contour elevations required",
+  "classes_percent": [
+    5,
+    10,
+    15,
+    25
+  ],
+  "class_cell_counts": [
+    0,
+    21,
+    536,
+    1121,
+    75
+  ],
+  "valid_cells": 1753,
+  "unknown_cells": 0,
+  "approx_area_percent": [
+    0.0,
+    1.2,
+    30.6,
+    63.9,
+    4.3
+  ],
+  "median_slope_percent": 16.65189276003207,
+  "sensitivity_12m_vs_16m_median_percentage_points": 0.5498349991863201,
+  "sensitivity_12m_vs_16m_p90_percentage_points": 1.5454918081710645,
+  "note": "Relative planning bins, not regulatory suitability thresholds. No excavation/fill volumes."
+}

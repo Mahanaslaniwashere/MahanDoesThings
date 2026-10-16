@@ -1,0 +1,30 @@
+{
+  "source": "CAD entities; identified by explicit Persian labels in supplied CAD screenshot",
+  "lines": [
+    {
+      "handle": "642F",
+      "layer": "00cannivo",
+      "start": [
+        750.8976324976085,
+        1047.174710261489
+      ],
+      "end": [
+        1053.694248109548,
+        869.110766813266
+      ]
+    },
+    {
+      "handle": "6435",
+      "layer": "00cannivo",
+      "start": [
+        793.5417218,
+        1038.090309
+      ],
+      "end": [
+        1062.667582180755,
+        879.826941734664
+      ]
+    }
+  ],
+  "note": "Two mapped traces; circuit count, voltage, current surveyed alignment and legal clearance are not inferred."
+}

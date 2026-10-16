@@ -1,0 +1,14 @@
+{
+  "source_units": "Meters",
+  "horizontal_translation_CAD_to_Rhino": [
+    -1848.1563831690414,
+    -878.6217735727896
+  ],
+  "C_check_residual_m": 1.1368683772161603e-13,
+  "BC_CAD_m": 88.84525170271377,
+  "BC_Rhino_m": 88.84525170271377,
+  "north_basis": "Adopted CAD north, axes aligned by B-C; not geodetic verification",
+  "elevation_basis": "Rhino relative model heights retained; no vertical datum registration claimed",
+  "upper_corner_discrepancy": "Rhino measured AB 84.511 m versus CAD 85.73 m; do not rescale",
+  "tree_basis": "Rhino symbols, not a current surveyed tree inventory"
+}
